@@ -7,3 +7,27 @@
 h1 {
     color: #222;
 }
+
+.navbar {
+    background: #222;
+    padding: 12px;
+    margin-bottom: 24px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin-right: 16px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-width: 360px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    padding: 8px;
+}
