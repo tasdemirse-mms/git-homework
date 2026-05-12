@@ -19,3 +19,10 @@ h1 {
     text-decoration: none;
     margin-right: 16px;
 }
+
+.footer {
+    margin-top: 40px;
+    padding: 16px;
+    background: #ddd;
+    text-align: center;
+}
